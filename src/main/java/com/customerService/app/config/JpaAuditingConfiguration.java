@@ -1,4 +1,4 @@
-package com.customerService.app;
+package com.customerService.app.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
